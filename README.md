@@ -1,4 +1,4 @@
-# React.jsx
+# React.tsx
 標記の複製元
 
 `cd my-news-app`
